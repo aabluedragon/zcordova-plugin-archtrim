@@ -1,0 +1,1 @@
+# zcordova-plugin-archtrim
