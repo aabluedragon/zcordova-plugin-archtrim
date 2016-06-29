@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="zcordova-plugin-archtrim" version="1.0.1">
+        id="zcordova-plugin-archtrim" version="0.1.0">
     <name>ArchTrimPlugin</name>
     <description>ArchTrimPlugin</description>
     <license></license>
