@@ -1,6 +1,6 @@
 # zcordova-plugin-archtrim
 
-The plugin helps solve app submittion validation errors such as:
+The plugin helps solve app submission validation errors such as:
 > ERROR ITMS-90087: “Unsupported Architectures. The executable for YourApp.app/Frameworks/SomeThing.framework contains unsupported architectures ‘[x86_64, i386]’."
 
 It adds a hook that adds a "Run Script" build phase to your Xcode project.
