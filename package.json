@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/aabluedragon/zcordova-plugin-archtrim/issues"
   },
-  "homepage": "https://github.com/aabluedragon/zcordova-plugin-archtrim#readme"
+  "homepage": "https://github.com/aabluedragon/zcordova-plugin-archtrim#readme",
+  "dependencies": {
+    "xcode": "0.9.3"
+  }
 }
