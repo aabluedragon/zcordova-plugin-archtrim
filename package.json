@@ -1,0 +1,30 @@
+{
+  "name": "zcordova-plugin-archtrim",
+  "version": "0.1.0",
+  "description": "ArchTrimPlugin",
+  "cordova": {
+    "id": "zcordova-plugin-archtrim",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabluedragon/zcordova-plugin-archtrim.git"
+  },
+  "keywords": [
+    "cordova",
+    "arch",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Alon Amir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aabluedragon/zcordova-plugin-archtrim/issues"
+  },
+  "homepage": "https://github.com/aabluedragon/zcordova-plugin-archtrim#readme",
+  "dependencies": {
+    "xcode": "0.9.3"
+  }
+}
